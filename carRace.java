@@ -121,7 +121,7 @@ class CarRace   implements KeyListener,ActionListener
  			        
  			        result.setVisible(false);
  			        scoreValue=0;
- 			        speed.setText("SPEED " + 40);
+ 			        speed.setText("SPEED " + 40);  // this is starting speeed
 
  			       
  			        
