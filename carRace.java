@@ -22,7 +22,7 @@ class CarRace   implements KeyListener,ActionListener
 		f = new JFrame("Car Race");
 		f.setSize(600,700);
 		f.setLayout(null);
-		f.setBounds(250,10,600,700);
+		f.setBounds(250,3,600,700);
 
 		background = new JLabel(new ImageIcon("road.jpg"));
 		background.setBounds(0,0,600,700);
